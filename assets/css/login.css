@@ -8,7 +8,7 @@
 .form {
   position: relative;
   z-index: 1;
-  background: #FFFFFF;
+  background: #14B4CD;
   max-width: 360px;
   margin: 0 auto 100px;
   padding: 45px;
@@ -30,7 +30,7 @@
     font-family: "Roboto", sans-serif;
     text-transform: uppercase;
     outline: 0;
-    background: #ea7f33;
+    background: #0B515C;
     width: 100%;
     border: 0;
     padding: 15px;
@@ -89,11 +89,11 @@
   color: #EF3B3A;
 }
 body {
-    background: #ea7f33;
-    background: -webkit-linear-gradient(right, rgb(234, 127, 51), rgb(234, 127, 51));
-    background: -moz-linear-gradient(right,rgb(234, 127, 51), rgb(234, 127, 51));
-    background: -o-linear-gradient(right,rgb(234, 127, 51), rgb(234, 127, 51));
-    background: linear-gradient(to left, rgb(234, 127, 51), rgb(234, 127, 51));
+    background: #317c98;
+    background: -webkit-linear-gradient(right, rgb(49, 124, 152), rgb(49, 124, 152));
+    background: -moz-linear-gradient(right,rgb(49, 124, 152), rgb(49, 124, 152));
+    background: -o-linear-gradient(right,rgb(49, 124, 152), rgb(49, 124, 152));
+    background: linear-gradient(to left, rgb(49, 124, 152), rgb(49, 124, 152));
     font-family: "Roboto", sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -107,7 +107,7 @@ body {
     z-index: 1;
     padding-bottom: 20px;
     padding-top: 20px;
-    background-color: #FFFFFF;
+    background-color: #14B4CD;
     max-width: 360px;
     margin: auto;
     box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
